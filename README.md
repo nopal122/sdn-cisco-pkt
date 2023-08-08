@@ -6,9 +6,11 @@ Software-Defined Networking (SDN) is an approach to networking that uses softwar
 
 In this project, I've created an enterprise network topology and managed it through Network Controller in Cisco Packet Tracer and also Telegram Bot using Python. This Telegram Bot will help notify the admin if there's a network issue inside the network. Here's some screenshot of the execution and the network topology:
 
-![Telegram Bot](https://drive.google.com/file/d/1ENKew_LlFLSYyD7YmjWt7BLwDEys_zfG/view?usp=sharing)
-![Terminal](image-2.png)
-![Network Topology](image-3.png)
+
+![Telegram Bot](https://github.com/nopal122/sdn-network/assets/76092621/e0f8ee57-595e-499b-a138-40896a07fdd3)
+![Terminal Output](https://github.com/nopal122/sdn-network/assets/76092621/7b81d801-2cb9-4ff2-b9f1-54b93f00807a)
+![Network Topology](https://github.com/nopal122/sdn-network/assets/76092621/d81383ba-ca9a-430a-b9b7-f45cb6562435)
+
 
 ## Installation
 
